@@ -17,7 +17,7 @@
 </div>
 
 <!--
-**lnsf/lnsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fal318/Fal318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
