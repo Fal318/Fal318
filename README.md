@@ -5,7 +5,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
-<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>-->
+
 
 <div style="width: 600px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -16,8 +16,7 @@
   </a>
 </div>
 
-<!--
-**lnsf/lnsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Fal318/Fal318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -30,8 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Me ✍️
-
-- 🔭 I'm working towards a robotics contest.
-
