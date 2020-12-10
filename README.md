@@ -12,7 +12,7 @@
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=fal318&count_private=true&show_icons=true&theme=prussian" />
   </a>
   <a style="display: block; height: 100%;" href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fal318&layout=compact&count_private=tru&theme=prussian" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fal318&layout=compact&count_private=true&theme=prussian" />
   </a>
 </div>
 
