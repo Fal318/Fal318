@@ -12,3 +12,4 @@
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fal318&layout=compact&count_private=true&theme=prussian" />
   </a>
 </div>
+![Counter](https://profile-counter.glitch.me/Fal318/count.svg)
